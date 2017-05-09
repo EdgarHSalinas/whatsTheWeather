@@ -12,6 +12,8 @@
 		467C18DD1EBD297E009DD784 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 467C18DB1EBD297E009DD784 /* Main.storyboard */; };
 		467C18DF1EBD297E009DD784 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467C18DE1EBD297E009DD784 /* Assets.xcassets */; };
 		467C18E21EBD297E009DD784 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 467C18E01EBD297E009DD784 /* LaunchScreen.storyboard */; };
+		467C18EA1EBD2C7D009DD784 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 467C18E91EBD2C7D009DD784 /* background.jpg */; };
+		467C18EC1EBD3A2E009DD784 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 467C18EB1EBD3A2E009DD784 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		467C18DE1EBD297E009DD784 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		467C18E11EBD297E009DD784 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		467C18E31EBD297E009DD784 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		467C18E91EBD2C7D009DD784 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		467C18EB1EBD3A2E009DD784 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,7 @@
 		467C18CB1EBD297E009DD784 = {
 			isa = PBXGroup;
 			children = (
+				467C18EB1EBD3A2E009DD784 /* Default-568h@2x.png */,
 				467C18D61EBD297E009DD784 /* Whats the Weather */,
 				467C18D51EBD297E009DD784 /* Products */,
 			);
@@ -57,6 +62,7 @@
 				467C18D71EBD297E009DD784 /* AppDelegate.swift */,
 				467C18D91EBD297E009DD784 /* ViewController.swift */,
 				467C18DB1EBD297E009DD784 /* Main.storyboard */,
+				467C18E91EBD2C7D009DD784 /* background.jpg */,
 				467C18DE1EBD297E009DD784 /* Assets.xcassets */,
 				467C18E01EBD297E009DD784 /* LaunchScreen.storyboard */,
 				467C18E31EBD297E009DD784 /* Info.plist */,
@@ -124,7 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				467C18E21EBD297E009DD784 /* LaunchScreen.storyboard in Resources */,
+				467C18EA1EBD2C7D009DD784 /* background.jpg in Resources */,
 				467C18DF1EBD297E009DD784 /* Assets.xcassets in Resources */,
+				467C18EC1EBD3A2E009DD784 /* Default-568h@2x.png in Resources */,
 				467C18DD1EBD297E009DD784 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
